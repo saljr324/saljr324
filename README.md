@@ -1,6 +1,11 @@
-### Hi there 👋
-### My name is Sal. I am a software engineer at Oracle Cloud and a recent graduate of UC Berkeley. 
+## About Me ✨
+### 🙋‍ Hi there!
+My name is Sal -  I am a software engineer at Oracle Cloud and graduating senior at UC Berkeley.<br>
+I believe technology is a fascinating way to understand more about humanity. 
 
+### Interests
+Cognition, Artificial Intelligence, Machine Learning, Applications of Data Science, Security
+## 🎥📽️ &nbsp;&nbsp; 🌲🏖️ &nbsp;&nbsp; 🎻🎶 &nbsp;&nbsp; 🚴‍♂️🏃‍♂️
 <!--
 **saljr324/saljr324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
