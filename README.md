@@ -1,4 +1,5 @@
 ### Hi there 👋
+### My name is Sal. I am a software engineer at Oracle Cloud and a recent graduate of UC Berkeley. 
 
 <!--
 **saljr324/saljr324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Streamlit 
